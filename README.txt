@@ -1,4 +1,4 @@
-README - Sistema de Liga de Fútbol en C#
+README - sistema de Liga de Fútbol en C#
 
 REQUISITOS DEL SISTEMA
 
